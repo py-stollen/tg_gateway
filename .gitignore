@@ -1,0 +1,28 @@
+# Project
+.idea/
+.vscode/
+.code-workspace
+data/*
+
+# Environment
+.venv/
+.env
+venv/
+
+# Cache
+__pycache__/
+*.py[cod]
+.cache/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.coverage/
+
+# Build
+env/
+build/
+_build/
+dist/
+site/
+*.egg-info/
+*.egg
